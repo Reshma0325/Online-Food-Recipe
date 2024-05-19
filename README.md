@@ -12,8 +12,8 @@ The project “Online Food Recipe” is a web-based platform developed with PHP 
 * Download project from github
 * extract files in C:\xampp\htdocs.
 * open link localhost/phpmyadmin and click on new at side navbar.
-* give a database name as (artgallery) hit on create button and after creating database name click on import.
-* browse the file in directory[food.sql].
+* give a database name as (foods) hit on create button and after creating database name click on import.
+* browse the file in directory[foods.sql].
 * after importing successfully, open any browser and type http://localhost/foodrecipe
 * first register and then login
 * admin login details Email=reshma@gmail.com &  Password=reshma.
