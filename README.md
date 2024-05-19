@@ -17,9 +17,9 @@ The project “Online Food Recipe” is a web-based platform developed with PHP 
 * after importing successfully, open any browser and type http://localhost/foodrecipe
 * first register and then login
 * admin login details Email=reshma@gmail.com &  Password=reshma.
-publisher login details Email=sri@gmail.com &  Password=sri.
-viewer login details Email=priya@gmail.com &  Password=priya.
-advertiser login details Email=prakash@gmail.com &  Password=prakash.
+* publisher login details Email=sri@gmail.com &  Password=sri.
+* viewer login details Email=priya@gmail.com &  Password=priya.
+* advertiser login details Email=prakash@gmail.com &  Password=prakash.
 # Screenshots
 ![Screenshot (40)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/22bc7955-8e6d-422a-b223-ed9259149435)
 ![Screenshot (41)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/251e1795-e91e-4e13-a57c-be0da9caa510)
