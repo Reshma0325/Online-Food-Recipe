@@ -21,18 +21,23 @@ publisher login details Email=sri@gmail.com &  Password=sri.
 viewer login details Email=priya@gmail.com &  Password=priya.
 advertiser login details Email=prakash@gmail.com &  Password=prakash.
 # Screenshots
-![Screenshot (56)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/dae7935a-c26f-42f8-9d19-48289a957804)
-![Screenshot (55)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/4dac1ba5-8093-40c9-bec4-e1d5bd711fc9)
-![Screenshot (54)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/c7ee4629-ee05-472f-a5a6-0c7304415be7)
-![Screenshot (53)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/95adc1b2-eda7-4cc1-951a-e9ad5982b110)
-![Screenshot (52)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/5b6e2875-1d9a-4cfe-9d15-ca3274738ff3)
-![Screenshot (45)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/bdc8da1c-b902-4d29-9609-91ae7c63cbd1)
-![Screenshot (44)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/629088c4-6ad0-4bcd-a0ee-5d86d40407cc)
-![Screenshot (48)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/516dbc82-cb02-4e9a-aa22-3690ccda5c5e)
-![Screenshot (43)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/a1db76cc-c67f-45a1-b31e-afadacc2174d)
-![Screenshot (42)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/1851b117-6b72-40f8-9c89-5d7d71139474)
-![Screenshot (41)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/251e1795-e91e-4e13-a57c-be0da9caa510)
 ![Screenshot (40)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/22bc7955-8e6d-422a-b223-ed9259149435)
+![Screenshot (41)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/251e1795-e91e-4e13-a57c-be0da9caa510)
+![Screenshot (42)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/1851b117-6b72-40f8-9c89-5d7d71139474)
+![Screenshot (43)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/a1db76cc-c67f-45a1-b31e-afadacc2174d)
+![Screenshot (44)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/629088c4-6ad0-4bcd-a0ee-5d86d40407cc)
+![Screenshot (45)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/bdc8da1c-b902-4d29-9609-91ae7c63cbd1)
+![Screenshot (48)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/516dbc82-cb02-4e9a-aa22-3690ccda5c5e)
+![Screenshot (52)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/5b6e2875-1d9a-4cfe-9d15-ca3274738ff3)
+![Screenshot (53)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/95adc1b2-eda7-4cc1-951a-e9ad5982b110)
+![Screenshot (54)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/c7ee4629-ee05-472f-a5a6-0c7304415be7)
+![Screenshot (55)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/4dac1ba5-8093-40c9-bec4-e1d5bd711fc9)
+![Screenshot (56)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/dae7935a-c26f-42f8-9d19-48289a957804)
+
+
+
+
+
 ![Screenshot (47)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/94f5ac56-b38e-44da-a695-94fd446cf9a5)
 ![Screenshot (46)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/7b850733-aad2-43bc-a11c-3d4080f066c7)
 ![Screenshot (51)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/9786971a-8e7a-4d70-ba31-1907a7d2b0de)
