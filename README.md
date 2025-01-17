@@ -43,5 +43,3 @@ The project “Online Food Recipe” is a web-based platform developed with PHP 
 ![Screenshot (51)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/9786971a-8e7a-4d70-ba31-1907a7d2b0de)
 ![Screenshot (49)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/622ab4af-1f2d-4dd4-9830-f3ae021fa354)
 ![Screenshot (39)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/44c632d2-8970-4620-943d-f7714a133b25)
-![Screenshot (57)](https://github.com/Reshma0325/Online-Food-Recipe/assets/151641454/8b7fa8d3-8763-4689-9c52-71da8fcddcd0)
-
